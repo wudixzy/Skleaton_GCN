@@ -1,6 +1,8 @@
 # Skleaton_GCN
 主要代码由TE-GCN（https://github.com/xieyulai/TE-GCN.git）、UAV-SAR（https://github.com/happylinze/UAV-SAR）
 
+训练数据可以由get_txt代码转化为UAV-SAR和Top仓库支持的格式
+
 训练数据集在（https://huggingface.co/datasets/CooooolBoy/added_data/tree/main），最终采用的是shuffled_joints_2.zip进行训练
 
 训练日志未整理完全，如有需要可联系2269097679@qq.com / 213221884@seu.edu.cn
